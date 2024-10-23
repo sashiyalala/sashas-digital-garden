@@ -1,0 +1,20 @@
+
+.callout[data-callout="observation"] {
+    --callout-color: 222, 82, 117;
+    --callout-icon: lucide-eye;
+}
+
+.callout[data-callout="definition"] {
+    --callout-color: 113, 90, 144;
+    --callout-icon: lucide-pen-tool;
+}
+
+.callout[data-callout="theorem"] {
+    --callout-color: 95, 109, 158;
+    --callout-icon: lucide-box;
+}
+
+.callout[data-callout="proposition"] {
+    --callout-color: 218, 175, 89;
+    --callout-icon: lucide-drafting-compass;
+}
