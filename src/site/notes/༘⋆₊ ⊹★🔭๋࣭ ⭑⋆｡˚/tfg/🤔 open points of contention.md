@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//tfg/open-points-of-contention/","tags":["tfg","physics","math"]}
+{"dg-publish":true,"permalink":"/༘⋆₊ ⊹★🔭๋࣭ ⭑⋆｡˚/tfg/🤔 open points of contention/","tags":["tfg","physics","math"]}
 ---
 
 

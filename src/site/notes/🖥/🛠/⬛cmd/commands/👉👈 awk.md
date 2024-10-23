@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///cmd/commands/awk/","tags":["cheat","unix"]}
+{"dg-publish":true,"permalink":"/🖥/🛠/⬛cmd/commands/👉👈 awk/","tags":["cheat","unix"]}
 ---
 
 

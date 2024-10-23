@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//docs/proper-time/","tags":["math","physics"]}
+{"dg-publish":true,"permalink":"/༘⋆₊ ⊹★🔭๋࣭ ⭑⋆｡˚/docs/proper time/","tags":["math","physics"]}
 ---
 
 
@@ -8,7 +8,7 @@ $$
 P = (t, x, y, z) 
 $$
 
->[!definiton] proper time $\Delta\tau$
+>[!definition] proper time $\Delta\tau$
 >Let  $P, Q \in \mathcal{S}$. Let $\Delta X = (\Delta t, \Delta x, \Delta y, \Delta z) := P - Q$ the 4-vector going from $P$ t-> $Q$.
 >We may define the quantity $\Delta \tau$
 >$$

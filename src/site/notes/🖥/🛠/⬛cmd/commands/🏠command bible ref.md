@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///cmd/commands/command-bible-ref/","tags":["cheat","ibm","unix"]}
+{"dg-publish":true,"permalink":"/🖥/🛠/⬛cmd/commands/🏠command bible ref/","tags":["cheat","ibm","unix"]}
 ---
 
 

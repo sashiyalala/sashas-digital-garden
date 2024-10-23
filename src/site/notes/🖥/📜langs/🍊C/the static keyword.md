@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//langs/c/the-static-keyword/","tags":["c","cpp","programming"]}
+{"dg-publish":true,"permalink":"/🖥/📜langs/🍊C/the static keyword/","tags":["c","cpp","programming"]}
 ---
 
 

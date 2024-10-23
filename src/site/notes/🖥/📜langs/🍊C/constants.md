@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//langs/c/constants/","tags":["c","programming"]}
+{"dg-publish":true,"permalink":"/🖥/📜langs/🍊C/constants/","tags":["c","programming"]}
 ---
 
 

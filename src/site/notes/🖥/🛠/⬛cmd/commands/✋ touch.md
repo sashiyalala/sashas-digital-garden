@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///cmd/commands/touch/","tags":["cheat","unix"]}
+{"dg-publish":true,"permalink":"/🖥/🛠/⬛cmd/commands/✋ touch/","tags":["cheat","unix"]}
 ---
 
 

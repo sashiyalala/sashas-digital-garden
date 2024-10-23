@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/latex-speed-cheatsheet/","tags":["cheat","latex","obsidian"]}
+{"dg-publish":true,"permalink":"/🔮obsidian/☄️ latex speed cheatsheet/","tags":["cheat","latex","obsidian"]}
 ---
 
 ## cheatsheet

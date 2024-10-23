@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//utils/long-dash/","tags":["cheat","utils"]}
+{"dg-publish":true,"permalink":"/🖥/🧶utils/long dash —/","tags":["cheat","utils"]}
 ---
 
 

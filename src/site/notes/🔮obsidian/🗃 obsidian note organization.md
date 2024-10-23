@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/obsidian-note-organization/","tags":["obsidian","meta"]}
+{"dg-publish":true,"permalink":"/🔮obsidian/🗃 obsidian note organization/","tags":["obsidian","meta"]}
 ---
 
 

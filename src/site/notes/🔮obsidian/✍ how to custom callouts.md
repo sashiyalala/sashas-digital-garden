@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/how-to-custom-callouts/","tags":["obsidian","meta","cheat"]}
+{"dg-publish":true,"permalink":"/🔮obsidian/✍ how to custom callouts/","tags":["obsidian","meta","cheat"]}
 ---
 
 

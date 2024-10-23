@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///cmd/commands/chmod-command/","tags":["unix"]}
+{"dg-publish":true,"permalink":"/🖥/🛠/⬛cmd/commands/🔑 chmod command/","tags":["unix"]}
 ---
 
 

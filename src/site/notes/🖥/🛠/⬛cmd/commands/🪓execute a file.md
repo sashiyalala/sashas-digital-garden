@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///cmd/commands/execute-a-file/","tags":["unix","cheat"]}
+{"dg-publish":true,"permalink":"/🖥/🛠/⬛cmd/commands/🪓execute a file/","tags":["unix","cheat"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//langs/c/escape-chars/","tags":["cheat","unix"]}
+{"dg-publish":true,"permalink":"/🖥/📜langs/🍊C/escape chars/","tags":["cheat","unix"]}
 ---
 
 in order to create a file called `"\?$*'KwaMe'*$?\"`

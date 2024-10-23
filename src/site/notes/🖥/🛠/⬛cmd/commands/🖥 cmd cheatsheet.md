@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///cmd/commands/cmd-cheatsheet/","tags":["unix","cheat"]}
+{"dg-publish":true,"permalink":"/🖥/🛠/⬛cmd/commands/🖥 cmd cheatsheet/","tags":["unix","cheat"]}
 ---
 
 

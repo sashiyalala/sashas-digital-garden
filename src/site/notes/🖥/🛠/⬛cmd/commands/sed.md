@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///cmd/commands/sed/","tags":["cheat","git","unix"]}
+{"dg-publish":true,"permalink":"/🖥/🛠/⬛cmd/commands/sed/","tags":["cheat","git","unix"]}
 ---
 
 

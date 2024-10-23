@@ -1,4 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/anuppuccin-snippets/","tags":["obsidian"]}
+{"dg-publish":true,"permalink":"/🔮obsidian/✂ anuppuccin snippets/","tags":["obsidian"]}
 ---
+
 

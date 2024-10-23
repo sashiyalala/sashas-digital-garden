@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/42/meta/exams-en/","tags":["42madrid"]}
+{"dg-publish":true,"permalink":"/☆⋆｡𖦹°‧★🛸42/⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆meta/exams EN/","tags":["42madrid"]}
 ---
 
 

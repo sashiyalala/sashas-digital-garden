@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///vim/tab-spaces-vim/","tags":["vim"]}
+{"dg-publish":true,"permalink":"/🖥/🛠/🥑vim/tab spaces VIM/","tags":["vim"]}
 ---
 
 

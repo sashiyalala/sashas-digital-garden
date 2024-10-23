@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/available-callouts/","tags":["obsidian","cheat"]}
+{"dg-publish":true,"permalink":"/🔮obsidian/🍡 available callouts/","tags":["obsidian","cheat"]}
 ---
 
 

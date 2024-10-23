@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/42/common-core/00/libft/docs/libft-makefile/","tags":["makefile","c","42madrid"]}
+{"dg-publish":true,"permalink":"/☆⋆｡𖦹°‧★🛸42/⋆｡ﾟ🪐｡⋆ ﾟ☾ ﾟ⋆common-core/00/📖libft/docs/libft makefile/","tags":["makefile","c","42madrid"]}
 ---
 
 # targets

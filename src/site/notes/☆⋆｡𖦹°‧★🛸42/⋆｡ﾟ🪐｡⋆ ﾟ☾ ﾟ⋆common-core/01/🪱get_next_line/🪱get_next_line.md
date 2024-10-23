@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/42/common-core/01/get-next-line/get-next-line/","tags":["42madrid","c","common-core","milestone1"]}
+{"dg-publish":true,"permalink":"/☆⋆｡𖦹°‧★🛸42/⋆｡ﾟ🪐｡⋆ ﾟ☾ ﾟ⋆common-core/01/🪱get_next_line/🪱get_next_line/","tags":["42madrid","c","common-core","milestone1"]}
 ---
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/42/meta/francinette/","tags":["42madrid","cheat"]}
+{"dg-publish":true,"permalink":"/☆⋆｡𖦹°‧★🛸42/⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆meta/francinette/","tags":["42madrid","cheat"]}
 ---
 
 

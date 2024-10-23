@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//langs/c/size-t/","tags":["c","programming"]}
+{"dg-publish":true,"permalink":"/🖥/📜langs/🍊C/size_t/","tags":["c","programming"]}
 ---
 
 

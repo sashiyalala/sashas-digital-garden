@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/42/common-core/01/milestone-01/","tags":["42madrid","c","common-core","unix"]}
+{"dg-publish":true,"permalink":"/☆⋆｡𖦹°‧★🛸42/⋆｡ﾟ🪐｡⋆ ﾟ☾ ﾟ⋆common-core/01/milestone 01/","tags":["42madrid","c","common-core","unix"]}
 ---
 
 

@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"///git/git/","tags":["cheat","git"]}
+{"dg-publish":true,"permalink":"/🖥/🛠/🐙git/🐈‍⬛🐙git/","tags":["cheat","git"]}
 ---
 

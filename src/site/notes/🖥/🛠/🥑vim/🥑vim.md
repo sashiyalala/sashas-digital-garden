@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///vim/vim/","tags":["cheat"]}
+{"dg-publish":true,"permalink":"/🖥/🛠/🥑vim/🥑vim/","tags":["cheat"]}
 ---
 
 

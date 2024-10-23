@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/check-boxes/","tags":["obsidian","meta"]}
+{"dg-publish":true,"permalink":"/🔮obsidian/☑ check boxes/","tags":["obsidian","meta"]}
 ---
 
 

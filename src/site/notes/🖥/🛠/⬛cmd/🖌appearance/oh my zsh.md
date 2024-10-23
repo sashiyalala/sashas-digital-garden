@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///cmd/appearance/oh-my-zsh/"}
+{"dg-publish":true,"permalink":"/🖥/🛠/⬛cmd/🖌appearance/oh my zsh/"}
 ---
 
 

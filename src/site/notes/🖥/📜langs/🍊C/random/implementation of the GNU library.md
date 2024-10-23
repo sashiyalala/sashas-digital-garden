@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//langs/c/random/implementation-of-the-gnu-library/","tags":["c","cheat","programming"]}
+{"dg-publish":true,"permalink":"/🖥/📜langs/🍊C/random/implementation of the GNU library/","tags":["c","cheat","programming"]}
 ---
 
 

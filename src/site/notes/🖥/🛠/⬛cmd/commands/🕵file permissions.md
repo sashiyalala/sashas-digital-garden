@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///cmd/commands/file-permissions/","tags":["cheat","unix"]}
+{"dg-publish":true,"permalink":"/🖥/🛠/⬛cmd/commands/🕵file permissions/","tags":["cheat","unix"]}
 ---
 
 

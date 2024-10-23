@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"//langs/c/malloc/"}
+{"dg-publish":true,"permalink":"/🖥/📜langs/🍊C/malloc/"}
 ---
 

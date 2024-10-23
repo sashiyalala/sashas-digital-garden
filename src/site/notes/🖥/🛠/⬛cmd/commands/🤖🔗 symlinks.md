@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///cmd/commands/symlinks/","tags":["unix","cheat"]}
+{"dg-publish":true,"permalink":"/🖥/🛠/⬛cmd/commands/🤖🔗 symlinks/","tags":["unix","cheat"]}
 ---
 
 

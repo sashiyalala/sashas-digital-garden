@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//langs/c/void-pointers/","tags":["c","cheat","programming"]}
+{"dg-publish":true,"permalink":"/🖥/📜langs/🍊C/🕳 void pointers/","tags":["c","cheat","programming"]}
 ---
 
 

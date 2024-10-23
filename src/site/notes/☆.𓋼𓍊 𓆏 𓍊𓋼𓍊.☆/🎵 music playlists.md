@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//music-playlists/","tags":["music"]}
+{"dg-publish":true,"permalink":"/☆.𓋼𓍊 𓆏 𓍊𓋼𓍊.☆/🎵 music playlists/","tags":["music"]}
 ---
 
 

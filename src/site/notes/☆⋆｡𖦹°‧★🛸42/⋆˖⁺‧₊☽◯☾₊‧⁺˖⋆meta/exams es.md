@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/42/meta/exams-es/","tags":["42madrid"]}
+{"dg-publish":true,"permalink":"/☆⋆｡𖦹°‧★🛸42/⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆meta/exams es/","tags":["42madrid"]}
 ---
 
 ❗❗❗No puedes hacer nada hasta que no sean en punto y tienes que conseguir llegar a la *examshell* antes de las 16:10❗❗❗

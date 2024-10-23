@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//tfg/tfg/","tags":["tfg","physics","math"]}
+{"dg-publish":true,"permalink":"/༘⋆₊ ⊹★🔭๋࣭ ⭑⋆｡˚/tfg/📜 tfg/","tags":["tfg","physics","math"]}
 ---
 
 

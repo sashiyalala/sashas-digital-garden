@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//langs/c/makefile/the-ar-command/","tags":["42madrid","c","makefile","shell"]}
+{"dg-publish":true,"permalink":"/🖥/📜langs/🍊C/makefile/the ar command/","tags":["42madrid","c","makefile","shell"]}
 ---
 
 

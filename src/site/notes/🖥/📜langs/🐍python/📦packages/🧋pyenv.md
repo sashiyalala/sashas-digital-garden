@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//langs/python/packages/pyenv/","tags":["python","cheat"]}
+{"dg-publish":true,"permalink":"/🖥/📜langs/🐍python/📦packages/🧋pyenv/","tags":["python","cheat"]}
 ---
 
 

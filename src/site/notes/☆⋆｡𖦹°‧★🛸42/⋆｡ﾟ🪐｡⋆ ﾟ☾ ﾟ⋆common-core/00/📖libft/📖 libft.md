@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/42/common-core/00/libft/libft/","tags":["42madrid","unix","c"]}
+{"dg-publish":true,"permalink":"/☆⋆｡𖦹°‧★🛸42/⋆｡ﾟ🪐｡⋆ ﾟ☾ ﾟ⋆common-core/00/📖libft/📖 libft/","tags":["42madrid","unix","c"]}
 ---
 
 

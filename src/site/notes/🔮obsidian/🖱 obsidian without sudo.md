@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/obsidian-without-sudo/","tags":["utils"]}
+{"dg-publish":true,"permalink":"/🔮obsidian/🖱 obsidian without sudo/","tags":["utils"]}
 ---
 
 
