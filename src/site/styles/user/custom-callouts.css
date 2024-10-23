@@ -16,5 +16,6 @@
 
 .callout[data-callout="proposition"] {
     --callout-color: 218, 175, 89;
-    --callout-icon: lucide-drafting-compass;
+/*     --callout-icon: lucide-drafting-compass; */
+    --callout-icon: lucide-diamond;
 }
