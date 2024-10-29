@@ -4,7 +4,7 @@
 
 
 
-- [?] [[༘⋆₊ ⊹★🔭๋࣭ ⭑⋆｡˚/docs/minkowski geometry\|minkowski geometry]] - where does it come from?
+- [?] [[༘⋆₊ ⊹★🔭๋࣭ ⭑⋆｡˚/docs/minkowski geometry\|minkowski geometry]] - where does it come from? Check out [[༘⋆₊ ⊹★🔭๋࣭ ⭑⋆｡˚/📚 references\|📚 references]] -> Woodhouse?
 	- [I] should check out special Relativity
 		- old TFGs
 		- Ch 3 of TTM - Special Relativity
