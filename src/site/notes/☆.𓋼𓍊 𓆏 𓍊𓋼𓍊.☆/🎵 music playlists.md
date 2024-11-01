@@ -4,6 +4,8 @@
 
 
 
+>[!playlist] [you fell asleep in the car on a rainy afternoon (playlist)](https://www.youtube.com/watch?v=qoVHupBCTMY&ab_channel=nobody)
+
 >[!music] strange the dreamer (a playlist) - instrumentals & ethereal ambience
 >![](https://www.youtube.com/watch?v=c8oBxFIT4fE&t=120s&ab_channel=booksofazwei) 
 
