@@ -8,11 +8,18 @@ check the colors for all these callouts
 # custom callouts
 >[!observation]
 
->[!definition] 
+>[!objective]
+
+>[!proposition]
+
+>[!music-playlist]
 
 >[!theorem]
 
->[!proposition]
+>[!definition] 
+
+>[!notation]
+
 
 ---
 # std. callouts

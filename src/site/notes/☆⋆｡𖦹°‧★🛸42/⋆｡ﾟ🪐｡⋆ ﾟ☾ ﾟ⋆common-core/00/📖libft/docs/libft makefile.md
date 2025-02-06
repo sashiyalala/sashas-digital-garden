@@ -30,7 +30,7 @@ $(NAME): $(OFILES)
 1. Does file with name `$(NAME)` exist?
 	- ✔ -> nothing
 	- ❎ -> go to next line. All files in `$(OFILES)` exist?
-		- ✔ -> makefile uses [[🖥/📜/🍊C/makefile/the ar command\|the ar command]] to create the *archive* file which will become our static library
+		- ✔ -> makefile uses [[🖥/📜/🍊C/🔨makefile/the ar command\|the ar command]] to create the *archive* file which will become our static library
 
 >[!important] 
 > I won't include the `s` flag to the `ar` command just in case for this project.

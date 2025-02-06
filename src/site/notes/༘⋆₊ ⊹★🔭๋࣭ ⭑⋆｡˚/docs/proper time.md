@@ -9,7 +9,7 @@ P = (t, x, y, z)
 $$
 
 >[!definition] proper time $\Delta\tau$
->Let  $P, Q \in \mathcal{S}$. Let $\Delta X = (\Delta t, \Delta x, \Delta y, \Delta z) := P - Q$ the 4-vector going from $P$ t-> $Q$.
+>Let  $P, Q \in \mathcal{S}$. Let $\Delta X = (\Delta t, \Delta x, \Delta y, \Delta z) := P - Q$ the 4-vector going from $P$ to -> $Q$.
 >We may define the quantity $\Delta \tau$
 >$$
 > \Delta \tau ^ {2}:= \Delta t ^ {2} - \Delta x ^ {2}- \Delta y ^{2} - \Delta z^{2}
@@ -23,7 +23,8 @@ $$
 
 
 - [i] invariant under [[lorentz transformations\|lorentz transformations]]
-	- it's *kind of* a distance, so just as in 3D Euclidean spaces,the distance $\Delta x ^{2} + \Delta y^{2}+ \Delta z^{2}$  is invariant under isometries
+	- it's *kind of* a distance, so just as in 3D Euclidean spaces,the distance $\Delta x ^{2} + \Delta y^{2}+ \Delta z^{2}$  is invariant under isometries 
+
 
 
 

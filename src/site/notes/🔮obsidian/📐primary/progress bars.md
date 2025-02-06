@@ -4,8 +4,11 @@
 
 
 
-<progress  max="100" value="10"></progress>
+<progress max="100" value="10"></progress>
 ```html
-<progress  max="100" value="10"></progress>
+<progress max="100" value="10"></progress>
 ```
+
+
+<progress max="100" value="100"></progress>
 

@@ -28,7 +28,7 @@
 - [T] Telephone
 
 
-![gh-checkbox-preview.webp](/img/user/files/gh-checkbox-preview.webp)
+![gh-checkbox-preview.webp](/img/user/%F0%9F%97%84files/gh-checkbox-preview.webp)
 
 | Syntax  | Description     |
 | ------- | --------------- |
